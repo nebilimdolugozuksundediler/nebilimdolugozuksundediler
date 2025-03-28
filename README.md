@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm a Senior Industrial Engineering Student passio
 - **Currently Working On:**
   - **Graduation Project:** Logistics Optimization Project.
   - **IE395:** Two Dimensional Vehicle Loading Optimization using Pyomo.
-  - **AI101:** Analysing Online Chess Game DataSets
+  - **AIE101:** Analysing Online Chess Game DataSets
 
 - **Learning:**  
   - Python  
